@@ -147,5 +147,6 @@ public class GradeCalculator {
         System.out.println("Final grade for course = " + finalGrade + "\n");
         System.out.println("========= Report generated on: " + today + " =========");
 
+        keyboard.close();
     }
 }
